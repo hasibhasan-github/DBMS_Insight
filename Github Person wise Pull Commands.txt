@@ -1,0 +1,25 @@
+Now we are acting as Person1 or Person2 and we will be pulling out the cloud repository in our local repository. Let's get started.
+
+First we need to initialize the repository.
+
+1. git init.
+
+Then we need to connect the local repository with cloud repository
+
+2. git remote add origin https://github.com/hasibhasan-github/DBMS_Insight.git 
+
+Now we have to pull the existing code for Person1/Person2 from cloud to our Local repository.
+
+3. git pull https://github.com/hasibhasan-github/DBMS_Insight.git Person1
+
+Now let's switch to branch Person1 
+
+4. git switch -c Person1
+
+Now let's update the Person1 Branch in cloud repository.
+
+5. git add .
+
+6. git commit -m "@hasibhasan-github"
+
+7. git push -u origin Person1
