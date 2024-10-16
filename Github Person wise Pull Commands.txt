@@ -23,3 +23,5 @@ Now let's update the Person1 Branch in cloud repository.
 6. git commit -m "@hasibhasan-github"
 
 7. git push -u origin Person1
+
+That's great you did it. Now code in your branch of Person1. After coding everytime repeat step 5,6,7.
