@@ -7,9 +7,9 @@ Welcome to the official GitHub repository for the **Database Management System (
 Hi! I’m **Md Hasib Hasan**, your SoD for this course. I’m a **Microsoft Student Ambassador** and passionate about technology, coding, and teaching. This repository is designed to provide you with useful tools and instructions as you navigate through the course content. 
 
 Feel free to reach out to me via 
-[Email](mailto:your-email@example.com): admin@hasibhasan.work
+[Email](mailto:admin@hasibhasan.work): admin@hasibhasan.work 
 
-[Portfolio](https://www.hasibhasan.work/): https://www.hasibhasan.work/
+[Portfolio](https://hasibhasan.work/): https://hasibhasan.work/
 
 [LinkedIn](https://www.linkedin.com/in/md-hasib-hasan-982a5523b/): [Md Hasib Hasan](https://www.linkedin.com/in/md-hasib-hasan-982a5523b/)
 
