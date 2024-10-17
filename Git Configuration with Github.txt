@@ -1,0 +1,25 @@
+Configuration:
+
+git config --global user.name "Your Name"
+
+git config --global user.email "your.email@example.com"
+
+
+Extra:
+
+	create a new repository on the command line
+
+	cho "# Checking" >> README.md
+  	it init
+  	it add README.md
+  	it commit -m "first commit"
+  	it branch -M main
+  	it remote add origin https://github.com/abdullah2111/Checking.git
+  	it push -u origin main
+
+
+ 	Push an existing repository from the command line
+
+	it remote add origin https://github.com/abdullah2111/Checking.git
+  	it branch -M main
+  	it push -u origin main
