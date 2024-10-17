@@ -38,4 +38,4 @@ Now let's push all the branches in our Cloud repository
 
 10. git push --all origin
 
-Great! You did it.
+Great! You did it!
