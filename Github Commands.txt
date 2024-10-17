@@ -1,0 +1,41 @@
+For initializing git in your local repository ----- 
+
+1. git init 
+
+Connect your local repository to cloud repository
+
+2. git remote add origin https://github.com/hasibhasan-github/DBMS_Insight.git
+
+Now connect the your local repository with your main branch
+
+3. git branch -M main
+
+Now save/add the changes of your local repository
+
+4. git add .
+
+Now Commit your changes to your local repository
+
+5. git commit -m "@hasibhasan-github"
+
+Now you have to push the code to the cloud repository
+
+6. git push -u origin main
+
+Now you have to create Person specific branches for work. One branch for each person of the team.
+
+7. git checkout -b Person1 main
+
+Now let's create another branch for Person 2.
+
+8. git checkout -b Person2 main
+
+Now let's check how many branch do we have on our local repository.
+
+9. git branch
+
+Now let's push all the branches in our Cloud repository
+
+10. git push --all origin
+
+Great! You did it.
